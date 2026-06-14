@@ -3,6 +3,10 @@
   "version": "1.0.19",
   "description": "fast excel formula parser",
   "repository": "https://github.com/LesterLyu/fast-formula-parser",
+  "homepage": "https://github.com/LesterLyu/fast-formula-parser#readme",
+  "bugs": {
+    "url": "https://github.com/LesterLyu/fast-formula-parser/issues"
+  },
   "main": "index.js",
   "scripts": {
     "test": "mocha -s 0",
